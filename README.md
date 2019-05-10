@@ -6,17 +6,17 @@ Turtle Python library made in pure C++ (attempt for academic purposes)
     turtle.cc
 
 Functions implemented are:
-
+```
 forward(); 
 backward(); 
 up(); 
 down;
-
+```
 Next update will include:
-
+```
 penup(); 
 pendown();
-
+```
 ## blatt.cc
 
     blatt.cc (German for the spanish term "hoja")
