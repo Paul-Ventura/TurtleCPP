@@ -1,7 +1,6 @@
 # TurtleCPP
 Turtle Python library made in pure C++ (attempt for academic purposes)
 
-Turtle Python library made in pure C++ attempt
 
     turtle.cc
 
