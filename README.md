@@ -33,7 +33,7 @@ Made with factory method design pattern.
 
 Next update will include: the OpenGL implementation
 
-## stamm.cc
+## builder.cc
 
 builder.cc
 
